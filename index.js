@@ -1,3 +1,4 @@
+alert("Press similar Keys or click using mouse");
 // detecting button press
 var numofbutton=document.querySelectorAll(".drum");
 
